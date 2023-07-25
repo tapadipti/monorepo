@@ -1,0 +1,7 @@
+artifacts:
+  newly-added-model-1:
+    path: path-to-newly-added-model-1
+    type: model
+  model1:
+    path: models/model1.pkl
+    type: model
